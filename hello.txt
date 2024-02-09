@@ -1,0 +1,5 @@
+version: The version of the VPC flow log format. This is used to distinguish different formats for VPC flow logs.
+
+interfaceid: The network interface ID of the network interface associated with the flow log. The network interface can be associated with a 
+virtual private cloud (VPC) or a subnet within a VPC. This field provides information about the network interface that received or sent the 
+traffic captured in the flow log.
